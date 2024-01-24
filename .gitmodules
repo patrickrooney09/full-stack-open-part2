@@ -1,0 +1,9 @@
+[submodule "fsoex2.1-2.5"]
+	path = fsoex2.1-2.5
+	url = https://github.com/patrickrooney09/fsoex2.1-2.5.git
+[submodule "countries2"]
+	path = countries2
+	url = https://github.com/patrickrooney09/countries2.git
+[submodule "fsoex2.6-2.17"]
+	path = fsoex2.6-2.17
+	url = https://github.com/patrickrooney09/fsoex2.6-2.17.git
